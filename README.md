@@ -1,6 +1,6 @@
 # ROCK, PAPER, SCISSORS GAME
 
-This ia asimple implementation of the classic Rock Paper Scissors game.
+This i a asimple implementation of the classic Rock Paper Scissors game.
 
 ## How to Play
 
